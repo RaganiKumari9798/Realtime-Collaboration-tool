@@ -59,3 +59,8 @@ realtime-whiteboard-app/
 
 ---
 ## Output:-
+<img width="1911" height="1003" alt="Image" src="https://github.com/user-attachments/assets/0055a483-dbd4-4c7f-a639-c02552dcc88f" />
+
+---
+
+
