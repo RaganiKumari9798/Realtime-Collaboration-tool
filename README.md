@@ -38,17 +38,17 @@ MENTOR :- NEELA SANTOSH KUMAR
 
 ## 📁 Folder Structure
 
-realtime-whiteboard-app/
-│
-├── client/            # React frontend
-│   └── src/
-│       ├── App.js     # Main component
-│       ├── index.js   # Entry point
-│       └── App.css    # Custom styles
-│
-├── server/            # Node.js backend
-│   └── index.js       # Main server file
-│
+realtime-whiteboard-app/<br>
+│<br>
+├── client/            # React frontend<br>
+│   └── src/<br>
+│       ├── App.js     # Main component<br>
+│       ├── index.js   # Entry point<br>
+│       └── App.css    # Custom styles<br>
+│<br>
+├── server/            # Node.js backend<br>
+│   └── index.js       # Main server file<br>
+│<br>
 └── README.md
 
 ## 💡 Use Cases
@@ -64,10 +64,10 @@ realtime-whiteboard-app/
 ---
 ## 🙋‍♀️ Author
 ### Ragani Kumari
-Intern at CodTech
+Intern at CodTech<br>
 GitHub: @RaganiKumari9798
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.<br>
 It is open source and free to use for learning and development purposes.
 
